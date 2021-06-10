@@ -1,5 +1,8 @@
 _repo: Magna-Carta-A-Commentary-on-the-Great-Charter-of-King-John-With-an-Historical-Introduction_65363
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65363-h/images/cover.jpg
 creator:
   author:
     agent_name: McKechnie, William Sharp
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53303
     wikipedia: https://en.wikipedia.org/wiki/William_Sharp_McKechnie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65363#Magna-Carta-A-Commentary-on-the-Great-Charter-of-King-John-With-an-Historical-Introduction
 gutenberg_issued: '2021-05-17'
 gutenberg_type: Text
 identifiers:
