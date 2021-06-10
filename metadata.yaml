@@ -1,0 +1,31 @@
+_repo: Magna-Carta-A-Commentary-on-the-Great-Charter-of-King-John-With-an-Historical-Introduction_65363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKechnie, William Sharp
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '53303'
+    url: http://www.gutenberg.org/2009/agents/53303
+    wikipedia: https://en.wikipedia.org/wiki/William_Sharp_McKechnie
+description: ''
+gutenberg_issued: '2021-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65363'
+  lccn: 05013197
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Law -- England -- History'
+- !lcsh 'Law -- England -- Sources'
+- !lcsh 'Constitutional history -- England -- Sources'
+- !lcsh 'Magna Carta'
+- !lcc 'KD'
+- GITenberg
+title: 'Magna Carta: A Commentary on the Great Charter of King John
+
+  With an Historical Introduction'
+url: http://www.gutenberg.org/ebooks/65363
